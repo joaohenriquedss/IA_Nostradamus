@@ -11,3 +11,8 @@ Michel de Nostredame, Miquèl de Nostradama,ou Miguel Nostradamo(Saint-Rémy-de-
 Michel de Nostredame, Miquèl de Nostradama, or Miguel Nostradamo (Saint-Rémy-de-Provence, December 21, 1503 - Salon-de-Provence, July 2, 1566) was an apotheque and French Renaissance physician who practiced alchemy (like many 16th century doctors). He became famous for his supposed clairvoyance. His most famous work, "As Profecias", is composed of verses grouped in four lines (blocks), organized in blocks of one hundred (centuries); some people believe that these verses contain coded predictions of the future
 
 
+# Base de dados usada 
+
+Link : https://www.sacred-texts.com/nos/index.htm
+
+
